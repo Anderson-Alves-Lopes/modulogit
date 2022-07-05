@@ -1,5 +1,6 @@
-Modúlo GIT/GITHUB do Curso B7Web
+Curso GIT/GITHUB do Curso B7Web
 
 Nova linha adicionada no readme
 
-Nova linha adicionada para ser removida depois.
+
+Depois de tanto commitar eu vou ficar fera no git
