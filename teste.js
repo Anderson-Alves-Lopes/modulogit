@@ -1,0 +1,2 @@
+function samlmama
+sdvmçammça
